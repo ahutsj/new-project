@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到安徽大学陶尚进的个人主页
 
 You can use the [editor on GitHub](https://github.com/ahutsj/new-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
